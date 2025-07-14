@@ -8,7 +8,7 @@ Proyek ini merupakan sebuah studi kasus dan sarana pembelajaran untuk mengintegr
 
 Lihat aplikasi ini secara langsung untuk merasakan fungsionalitasnya.
 
-**[➡️ Kunjungi Live Demo](https://midtrans-payment-gateway-tegar.vercel.app/)**
+**[➡️ Kunjungi Live Demo]** https://midtrans-payment-gateway-tegar.vercel.app/
 
 ---
 
