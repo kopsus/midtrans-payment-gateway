@@ -8,7 +8,7 @@ Proyek ini merupakan sebuah studi kasus dan sarana pembelajaran untuk mengintegr
 
 Lihat aplikasi ini secara langsung untuk merasakan fungsionalitasnya.
 
-**[➡️ Kunjungi Live Demo](https://masukkan-url-live-demo-anda.com)**
+**[➡️ Kunjungi Live Demo]** https://midtrans-payment-gateway-tegar.vercel.app/
 
 ---
 
@@ -81,8 +81,8 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 1.  **Clone Repositori**
 
     ```bash
-    git clone [https://github.com/username-anda/nama-repositori-anda.git](https://github.com/username-anda/nama-repositori-anda.git)
-    cd nama-repositori-anda
+    git clone https://github.com/kopsus/midtrans-payment-gateway.git
+    cd midtrans-payment-gateway
     ```
 
 2.  **Instalasi Dependensi**
